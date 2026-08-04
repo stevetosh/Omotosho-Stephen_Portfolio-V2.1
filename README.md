@@ -2,6 +2,8 @@
 
 Welcome to my professional portfolio. I’m **Stephen Omotosho**, a Customer Support Operations and Technical Support Engineer with experience in service delivery, incident management, network operations, and customer experience.
 
+<a href="https://omotoshostephen.netlify.app/" target="_blank">▶️ View Portfolio </a>
+
 ![Stephen Omotosho](img/hero_bg.jpg)
 
 ## A little about me

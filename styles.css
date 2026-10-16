@@ -348,19 +348,12 @@ a {
   border-bottom: 1px solid var(--line);
   border-top: 1px solid var(--line);
   display: grid;
-<<<<<<< HEAD
   grid-template-columns: repeat(4, minmax(0, 1fr));
-=======
-  grid-template-columns: 1.2fr repeat(4, 1fr);
->>>>>>> 779456d33e02b68606cbed4fdcb1174c080614ba
   margin-top: 85px;
 }
 .highlights>span {
   align-self: center;
-<<<<<<< HEAD
   grid-column: 1 / -1;
-=======
->>>>>>> 779456d33e02b68606cbed4fdcb1174c080614ba
   font: 10px var(--mono);
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -622,17 +615,11 @@ a {
   text-transform: uppercase;
 }
 .credential-list h4 {
-<<<<<<< HEAD
   color: #789527;
   font: 10px var(--mono);
   letter-spacing: .06em;
   margin: 28px 0 8px;
   text-transform: uppercase;
-=======
-  font-size: 16px;
-  letter-spacing: -0.04em;
-  margin: 6px 0 4px;
->>>>>>> 779456d33e02b68606cbed4fdcb1174c080614ba
 }
 .credential-list p {
   color: var(--text);
@@ -977,11 +964,7 @@ footer {
     grid-template-columns: repeat(4, 1fr);
   }
   .highlights>span {
-<<<<<<< HEAD
     display: block;
-=======
-    display: none;
->>>>>>> 779456d33e02b68606cbed4fdcb1174c080614ba
   }
   .project-grid {
     grid-template-columns: 1fr 1fr;
